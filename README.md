@@ -43,3 +43,7 @@ WhatsApp.apk,"android.permission.CAMERA, android.permission.RECORD_AUDIO","MainA
 
 ## License
 This project is open-source and available for free use and modification.
+
+```
+made with 💖 by Saad Abdur Razzaq
+```
