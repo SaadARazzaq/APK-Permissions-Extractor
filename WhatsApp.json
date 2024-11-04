@@ -1,0 +1,2765 @@
+[
+    {
+        "APK": "WhatsApp.apk",
+        "Permissions": [
+            "android.permission.FOREGROUND_SERVICE_MICROPHONE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.POST_NOTIFICATIONS",
+            "android.permission.READ_MEDIA_AUDIO",
+            "com.google.android.gms.permission.AD_ID",
+            "android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION",
+            "android.permission.MANAGE_OWN_CALLS",
+            "android.permission.RECEIVE_SMS",
+            "android.permission.CHANGE_WIFI_STATE",
+            "android.permission.FOREGROUND_SERVICE_LOCATION",
+            "android.permission.VIBRATE",
+            "android.permission.USE_CREDENTIALS",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "com.whatsapp.permission.BROADCAST",
+            "android.permission.GET_TASKS",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.MANAGE_ACCOUNTS",
+            "android.permission.READ_EXTERNAL_STORAGE",
+            "android.permission.ACCESS_MEDIA_LOCATION",
+            "android.permission.WRITE_SYNC_SETTINGS",
+            "com.whatsapp.sticker.READ",
+            "android.permission.BLUETOOTH_ADVERTISE",
+            "android.permission.READ_PROFILE",
+            "android.permission.BLUETOOTH",
+            "android.permission.BROADCAST_STICKY",
+            "android.permission.INTERNET",
+            "android.permission.READ_MEDIA_VISUAL_USER_SELECTED",
+            "android.permission.ACCESS_FINE_LOCATION",
+            "android.permission.SEND_SMS",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "com.facebook.services.identity.FEO2",
+            "android.permission.READ_SYNC_SETTINGS",
+            "android.permission.REORDER_TASKS",
+            "android.permission.BLUETOOTH_ADMIN",
+            "android.permission.READ_PHONE_STATE",
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            "android.permission.WRITE_CONTACTS",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            "android.permission.GET_ACCOUNTS",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "android.permission.READ_PHONE_NUMBERS",
+            "android.permission.INSTALL_SHORTCUT",
+            "android.permission.READ_MEDIA_IMAGES",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "android.permission.ACCESS_WIFI_STATE",
+            "com.whatsapp.permission.REGISTRATION",
+            "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+            "android.permission.READ_CONTACTS",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "android.permission.FOREGROUND_SERVICE_PHONE_CALL",
+            "android.permission.CAMERA",
+            "android.permission.USE_FULL_SCREEN_INTENT",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "android.permission.RECORD_AUDIO",
+            "android.permission.READ_MEDIA_VIDEO",
+            "android.permission.FOREGROUND_SERVICE_CAMERA",
+            "android.permission.NFC",
+            "android.permission.RUN_USER_INITIATED_JOBS",
+            "android.permission.USE_FINGERPRINT",
+            "android.permission.CHANGE_NETWORK_STATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            "com.whatsapp.permission.MAPS_RECEIVE",
+            "com.whatsapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            "android.permission.USE_BIOMETRIC",
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            "android.permission.SCHEDULE_EXACT_ALARM",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            "android.permission.BLUETOOTH_SCAN",
+            "android.permission.READ_SYNC_STATS",
+            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+            "android.permission.BLUETOOTH_CONNECT",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.NEARBY_WIFI_DEVICES"
+        ],
+        "Intents": {
+            "androidx.car.app.CarAppPermissionActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "androidx.credentials.playservices.HiddenActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.google.android.gms.auth.api.signin.internal.SignInHubActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.google.android.gms.common.api.GoogleApiActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.google.android.play.core.common.PlayCoreDialogWrapperActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.IndiaUpiPaymentMethodSelectionActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.IndiaUpiBalanceDetailsActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.IndiaUpiPaymentsValuePropsActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.IndiaUpiPaymentsValuePropsBottomSheetActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.IndiaUpiIncentivesValuePropsActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.IndiaUpiPinPrimerFullSheetActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.IndiaUpiPinSetUpCompletedActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.IndiaUpiPaymentsTosActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.IndiaUpiPaymentTransactionDetailsActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.IndiaUpiPaymentsAccountSetupActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.onboarding.IndiaUpiBankPickerActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.IndiaUpiBankAccountPickerActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.IndiaUpiDobPickerActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.IndiaUpiDebitCardVerificationActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.IndiaUpiBankAccountAddedLandingActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.IndiaUpiSimVerificationActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.IndiaUpiOnboardingErrorEducationActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.IndiaUpiBankAccountDetailsActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.IndiaUpiDeviceBindStepActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.IndiaUpiVpaContactInfoActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.IndiaUpiChangePinActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.IndiaUpiCheckBalanceActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.IndiaUpiSendPaymentActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.IndiaUpiSendPaymentActivityBottomSheet": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.IndiaUpiCheckOrderDetailsActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.IndiaUpiPaymentSettingsActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.IndiaUpiMandateHistoryActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.IndiaUpiContactPicker": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.IndiaUpiInteropSendToUpiActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.IndiaUpiQrCodeScanActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.IndiaUpiQrTabActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.IndiaUpiQrCodeUrlValidationActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.IndiaUpiPaymentLauncherActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.IndiaUpiMandatePaymentActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.IndiaUpiQuickBuyActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.IndiaUpiProfileDetailsActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.IndiaUpiNumberSettingsActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.IndiaUpiStepUpActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.IndiaUpiInterOpHybridActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.receiver.IndiaUpiPayIntentReceiverActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.IndiaPaymentTransactionHistoryActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.mapper.register.IndiaUpiMapperValuePropsActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.mapper.register.IndiaUpiMapperLinkActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.mapper.register.IndiaUpiMapperPendingActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.mapper.register.IndiaUpiCreateCustomNumberActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.IndiaUpiPauseMandateActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.IndiaUpiPaymentsBlockScreenShareActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.mapper.register.IndiaUpiMapperConfirmationActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.IndiaUpiProvideMoreInfoActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.IndiaUpiProvideMoreInfoBottomSheetActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.IndiaUpiAccountRecoveryFinishActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.phoenix.flowconfigurationservice.activities.IndiaUpiFcsPinHandlerActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.IndiaUpiPaymentInvitePickerActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.phoenix.flowconfigurationservice.activities.IndiaUpiFcsResetPinActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.international.IndiaUpiInternationalActivationActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.international.IndiaUpiInternationalDeactivationActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.international.IndiaUpiInternationalValidateQrActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.IndiaWebViewUpiP2mHybridActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.IndiaUpiAadhaarCardVerificationActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.IndiaUpiSavingsOfferActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "org.npci.upi.security.pinactivitycomponent.UserAuthInfoActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "org.npci.upi.security.pinactivitycomponent.GetCredential": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.P2mLitePaymentSettingsActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.P2mLiteOrderDetailsActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.P2mLiteDyiReportActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.P2mLiteWebViewActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.P2mLitePaymentTransactionDetailActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.instrumentation.ui.InstrumentationAuthActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.migration.export.ui.ExportMigrationActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.xfamily.accountlinking.ui.AccountLinkingWebAuthActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.wabloks.ui.WaBloksActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.wabloks.ui.WaBloksActivityWithCustomPreloadScreens": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.wabloks.ui.WaBloksGenericBottomSheetActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.wabloks.ui.WaFcsModalActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.wabloks.ui.WaFcsPreloadedBloksActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.wabloks.ui.WaFcsBottomSheetModalActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.wabloks.ui.WaBloksBottomSheetActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.wabloks.ui.bottomsheet.BloksCDSBottomSheetActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.wabloks.ui.screenquery.WaSqBloksActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.messaging.CaptivePortalActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.VoiceMessagingActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.framework.alerts.ui.AlertCardListActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.BrazilPaymentPixOnboardingActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.BrazilPaymentPixSendKeyActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.BrazilPaymentSettingsActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.BrazilPayBloksActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.BrazilPaymentActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.BrazilPaymentActivityBottomSheet": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.BrazilSmbPaymentActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.BrazilSmbPaymentActivityBottomSheet": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.BrazilPaymentTransactionDetailActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.BrazilPaymentCardDetailsActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.BrazilFbPayHubActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.BrazilMerchantDetailsListActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.BrazilViralityLinkVerifierActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.BrazilDyiReportActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.BrazilPaymentContactSupportActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.BrazilPaymentContactSupportP2pActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.BrazilPaymentCareTransactionSelectorActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.BrazilPaymentReportPaymentActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.BrazilPaymentDPOActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.BrazilPaymentIntegrityAppealActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.BrazilPaymentContactOmbudsmanActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.BrazilOrderDetailsActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.BrazilAccountRecoveryPinActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.BrazilPixKeySettingActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.BusinessHubActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.MerchantPayoutTransactionHistoryActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.PaymentTransactionHistoryActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.PaymentGroupParticipantPickerActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.PaymentTransactionDetailsListActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.PaymentDeleteAccountActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.PaymentContactPicker": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.PaymentsUpdateRequiredActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.ViralityLinkVerifierActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.PaymentInvitePickerActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.IncentiveValuePropsActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.PaymentCheckoutOrderDetailsItemListActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.care.csat.CsatSurveyBloksActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.PaymentWebViewActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.MessageWithLinkWebViewActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.CheckoutLiteWebViewActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.GlobalPaymentOrderDetailsActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.GlobalPaymentTransactionDetailActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.ui.IndiaUpiAddressFormActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.payments.phoenix.flowconfigurationservice.resource.permission.FcsRequestPermissionActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.account.delete.DeleteAccountActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.account.delete.DeleteAccountConfirmation": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.phonematching.CountryPicker": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.account.delete.DeleteAccountFeedback": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.account.remove.RemoveAccountActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.accountswitching.secondaryprocess.AccountSwitchingActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.accountsync.LoginActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.accountsync.ProfileActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.accountsync.CallContactLandingActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.ageverification.idv.IdvActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.ageverification.idv.AuthenticityActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.authentication.AppAuthenticationActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.authentication.AppAuthSettingsActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.autodelete.NewsletterMediaSettingGlobalActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.autodelete.NewsletterMediaSettingActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.avatar.home.AvatarHomeActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.avatar.profilephoto.AvatarProfilePhotoActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.avatar.profilephotocf.AvatarCoinFlipProfilePhotoActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.avatar.privacy.AvatarStickerPrivacySettings": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.avatar.privacy.AvatarStickerAllowListPickerActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.avatar.editor.AvatarEditorLauncherActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.avatar.editor.AvatarEditorLauncherFSActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.backup.encryptedbackup.EncBackupMainActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.backup.google.RestoreFromBackupActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.backup.google.GoogleDriveNewUserSetupActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.backup.google.SettingsGoogleDrive": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.biz.BusinessProfileExtraFieldsActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.businessupsell.BusinessAppEducation": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.biz.linkedaccounts.LinkedAccountMediaView": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.biz.linkedaccounts.LinkedIGPostsSummaryViewActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.blockbusiness.BlockBusinessActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.blockinguserinteraction.BlockingUserInteractionActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.blocklist.BlockList": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.bonsai.discovery.BonsaiDiscoveryActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.bonsai.onboarding.BonsaiOnboardingActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.bonsai.home.AIHomeActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.bonsai.aiimage.AiProfileGenerateActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.bonsai.metaai.imagineme.ImagineMeOnboardingActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.bonsai.metaai.premium.MetaAiPremiumModelSettingActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.bonsai.metaai.imagineme.settings.ImagineMeSettingsActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.bonsai.metaai.voice.MetaAiVoiceSettingActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.businesscollection.view.activity.CollectionProductListActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.biz.product.view.activity.ProductDetailActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.biz.compliance.view.BusinessComplianceDetailActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.voipcalling.VoipActivityV2": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.calling.calllink.view.CallLinkActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.calling.callhistory.group.GroupCallParticipantPickerSheet": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.calling.callhistory.group.GroupCallLogActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.calling.callhistory.group.GroupCallParticipantPicker": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.calling.callhistory.CallLogActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.calling.callhistory.calllog.CallLogActivityV2": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.calling.spam.CallSpamActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.calling.callrating.CallRatingActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.calling.VoipAppUpdateActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.calling.VoipNotAllowedActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.calling.VoipPermissionsActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.calling.schedulecall.upcomingcalls.view.UpcomingScheduledCallsActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.calling.psa.view.GroupCallPsaActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.calling.favorite.FavoritePicker": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.calling.favorite.calllist.FavoriteCallListActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.calling.dialer.DialerActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.camera.LauncherCameraActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.camera.CameraActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.ShareProductLinkActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.ShareCatalogLinkActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.CatalogImageListActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.CatalogMediaView": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.biz.catalog.view.activity.CatalogListActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.biz.catalog.view.activity.ProductListActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.biz.catalog.view.activity.CatalogCategoryTabsActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.catalogcategory.view.activity.CatalogAllCategoryActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.group.GroupChatInfoActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.chatinfo.ListChatInfoActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.chatinfo.ContactInfoActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.businessupsell.BusinessProfileEducation": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.newsletter.NewsletterInfoActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.newsletter.insights.NewsletterInsightsActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.newsletter.multiadmin.InviteNewsletterAdminSelector": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.event.EventsActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.chatlock.ChatLockRequestAuthInterstitialActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.chatlock.ChatLockSettingsActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.chatlock.ChatLockCreateSecretCodeActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.chatlock.ChatLockConfirmSecretCodeActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.chatlock.ChatLockPrivacySettingsActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.chatlock.HideLockedChatsActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.community.CommunityMembersActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.community.deactivate.DeactivateCommunityDisclaimerActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.community.EditCommunityActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.community.ManageGroupsInCommunityActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.community.CommunityNUXActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.community.CommunityHomeActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.community.CommunityNavigationActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.community.NewCommunityActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.community.LinkExistingGroups": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.community.SelectCommunityForGroupActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.community.CommunitySettingsActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.community.membersuggestedgroups.MemberSuggestedGroupsManagementActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.community.ReviewGroupsPermissionsBeforeLinkActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.community.communitymedia.CommunityMediaActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.community.TransferCommunityOwnershipActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.community.CommunityAdminPickerActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.companiondevice.optin.ui.ForcedOptInActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.companiondevice.LinkedDevicesActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.companiondevice.LinkedDevicesEnterCodeActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.companiondevice.CompanionHelloConfirmationActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.companiondevice.LinkedDeviceEditDeviceActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.qrcode.DevicePairQrScannerActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.companionmode.registration.RegisterAsCompanionActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.companionmode.registration.CompanionBootstrapActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.companionmode.registration.CompanionPostLogoutActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.companionmode.registration.RegisterAsCompanionEnterNumberActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.companionmode.registration.RegisterAsCompanionLinkCodeActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.contact.picker.ContactsAttachmentSelector": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.contact.picker.ContactsAttachmentSelectorBottomSheet": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.contact.picker.invite.InviteNonWhatsAppContactPickerActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.contact.picker.AddGroupParticipantsSelector": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.contact.picker.BroadcastListMembersSelector": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.contact.picker.PhoneContactsSelector": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.contact.picker.PhoneContactsSelectorBottomSheet": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.quickcontact.QuickContactActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.contact.picker.AudienceSelectionContactPicker": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.contact.picker.StatusMentionsContactPicker": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.contact.picker.ContactPicker": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.contact.contactform.ContactFormActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.viewsharedcontacts.ViewSharedContactArrayActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.contactinput.contactscreen.NativeContactActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.contextualhelp.ContextualHelpActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.conversation.EditBroadcastRecipientsSelector": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.conversation.conversationrow.ContactSyncActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.conversation.conversationrow.album.MediaAlbumActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.conversation.conversationrow.message.MessageDetailsActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.conversation.conversationrow.message.KeptMessagesActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.conversation.conversationrow.message.reporttoadmin.messageslist.ReportToAdminMessagesActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.conversation.conversationrow.message.reporttoadmin.reporttoadminreporterslist.ReportToAdminReportersActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.conversation.conversationrow.message.StarredMessagesActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.Conversation": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.conversationslist.ArchiveNotificationSettingActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.conversationslist.ArchivedConversationsActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.conversationslist.SmsDefaultAppWarning": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.conversation.EditMessageActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.conversation.selection.SingleSelectedMessageActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.conversation.selection.SelectedImageAndVideoAlbumActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.conversationslist.LockedConversationsActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.conversationslist.InteropConversationsActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.corruptinstallation.CorruptInstallationActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.crop.CropImage": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.datasharingdisclosure.ui.ConsumerDisclosureActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.deeplink.DeepLinkActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.dmsetting.ChangeDMSettingActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.dmsetting.DisappearingMessagesSettingActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.ephemeral.ChangeEphemeralSettingActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.expiringgroups.ChangeExpiringGroupsSettingActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.consent.ConsentFlowActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.pancake.dosa.DosaActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.documentpicker.DocumentPickerActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.documentpicker.DocumentPickerBottomSheetActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.documentpicker.AudioPickerBottomSheetActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.audiopicker.AudioPickerActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.email.EmailVerificationActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.email.UpdateEmailActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.email.VerifyEmailActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.email.EmailVerifiedSecurityCheckActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.favorites.FavoritesActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.favorites.picker.FavoritesPickerActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.flows.phoenix.PhoenixFlowsBottomSheetActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.flows.webview.WaFlowsWebViewBottomsheetModalActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.flows.webview.nativeUI.FlowsCalendarPickerActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.gallery.NewMediaPicker": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.gallery.MediaGalleryActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.gallery.google.GoogleGalleryActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.gallerypicker.GalleryPickerLauncher": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.gallerypicker.GalleryPicker": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.gallerypicker.GalleryPickerBottomSheetActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.gallerypicker.MediaPicker": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.greenalert.GreenAlertActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.group.GroupMembersSelector": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.group.GroupPermissionsActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.group.newgroup.NewGroup": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.group.GroupAddPrivacyActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.group.GroupAdminPickerActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.group.EditGroupAdminsSelector": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.group.GroupAddBlacklistPickerActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.group.GroupProfileEmojiEditor": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.group.GroupPendingParticipantsActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.acceptinvitelink.AcceptInviteLinkActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.invites.ViewGroupInviteActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.invites.InviteGroupParticipantsActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.shareinvitelink.ShareGroupInviteLinkActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.writenfctag.WriteNfcTagActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.location.GroupChatLiveLocationsActivity2": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.location.GroupChatLiveLocationsActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.invites.SMSPreviewInviteGroupParticipantsActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.group.HistorySettingActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.home.ui.HomePlaceholderActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.home.ui.StarredMessagesPlaceholderActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.HomeActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.Main": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.identity.IdentityVerificationActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.identity.ScanQrCodeActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.inappbugreporting.InAppBugReportingActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.inappbugreporting.BugReportingCategoriesActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.inappsupport.ui.ContactUsActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.inappsupport.ui.SupportBloksActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.inappsupport.ui.SupportVideoActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.inappsupport.ui.SupportTopicsActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.inappsupport.ui.FaqItemActivityV2": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.support.faq.FaqItemActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.support.DescribeProblemActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.support.faq.SearchFAQ": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.support.Remove": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.inappsupport.ui.SupportAiActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.integrity.survey.activity.SurveyActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.interopui.optin.InteropOptInSelectIntegratorsActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.interopui.setting.InteropSettingsActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.interopui.compose.InteropComposeSelectIntegratorActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.interopui.compose.InteropComposeEnterInfoActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.lastseen.PresencePrivacyActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.lastseen.LastSeenBlockListPickerActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.lists.ListsManagerActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.lists.picker.ListsContactPickerActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.lists.home.ListsHomeActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.lists.ListsConversationManagementActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.location.LocationPicker": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.location.LocationPicker2": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.location.LocationPickerBottomSheet": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.location.LocationPicker2BottomSheet": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.location.LiveLocationPrivacyActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.loginfailure.LogoutMessageActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.mediacomposer.MediaComposerActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.gifvideopreview.GifVideoPreviewActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.documentpicker.DocumentPreviewActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.mediaview.MediaViewActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.migration.android.view.GoogleMigrateImporterActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.migration.export.ui.ExportMigrationDataExportedActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.migration.transfer.ui.ChatTransferActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.migration.transfer.ui.P2pTransferQrScannerActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.businessapisearch.view.activity.BusinessApiSearchActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.businessdirectory.view.activity.BusinessDirectoryActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.businessdirectory.view.activity.DirectoryBusinessChainingActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.businessdirectory.view.activity.BusinessDirectorySERPMapViewActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.businessdirectory.view.activity.DirectorySetLocationMapActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.businessdirectory.view.activity.BusinessDirectoryFrequentContactedActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.newsletter.ui.mv.NewsletterEditMVActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.newsletter.ui.mv.NewsletterCreateMVActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.newsletter.ui.mv.NewsletterUpgradeToMVActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.newsletter.ui.mv.NewsletterSelectToUpgradeMVActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.newsletter.ui.NewsletterCreationActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.newsletter.ui.NewsletterEditActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.newsletter.ui.NewsletterEditDescriptionActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.newsletter.ui.delete.DeleteNewsletterActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.newsletter.ui.transferownership.NewsletterTransferOwnershipActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.newsletter.ui.profilephoto.ViewNewsletterProfilePhoto": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.newsletter.ui.directory.NewsletterDirectoryActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.newsletter.ui.directory.NewsletterDirectoryCategoriesActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.newsletter.ui.waitlist.NewsletterWaitListActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.newsletter.ui.settings.NewsletterSettingsActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.newsletter.ui.ShareNewsletterInviteLinkActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.product.newsletterenforcements.geosuspend.NewsletterGeosuspensionInfoActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.product.newsletterenforcements.alerts.NewsletterAlertsActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.product.newsletterenforcements.enforcedmessages.EnforcedMessagesActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.product.newsletterenforcements.appealsoutcome.NewsletterAppealsOutcomeActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.product.newsletterenforcements.suspension.NewsletterSuspensionInfoActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.product.newsletterenforcements.profilepicturedeletion.NewsletterProfilePictureDeletionInfoActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.product.newsletterenforcements.userreports.NewsletterUserReportsActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.product.newsletterenforcements.disputesettlement.NewsletterEnforcementSelectActionActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.product.newsletterenforcements.integrityappeals.NewsletterRequestReviewActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.product.newsletterenforcements.integrityappeals.NewsletterRequestReviewSelectReasonActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.notification.PopupNotification": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.notification.OtpOneTapNotificationHandlerActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.passkeys.PasskeyCreateEducationScreen": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.polls.PollResultsActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.polls.PollCreatorActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.polls.PollCreatorBottomSheetActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.privacy.checkup.PrivacyCheckupHomeActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.privacy.checkup.PrivacyCheckupDetailActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.profile.ViewProfilePhoto": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.profile.ProfilePhotoBlockListPickerActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.profile.WebImagePicker": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.profile.ProfileInfoActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.profile.ProfilePhotoReminder": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.profile.ResetGroupPhoto": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.profile.ProfilePhotoPrivacyActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.profile.ResetPhoto": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.profile.ViewProfilePhoto$SavePhoto": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.profile.AboutStatusPrivacyActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.profile.AboutStatusBlockListPickerActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.profile.SetAboutInfo": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.profile.CapturePhoto": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.profile.coinflip.nux.CoinFlipNUXBottomSheetLauncher": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.profile.coinflip.preview.CoinFlipPreviewActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.qrcode.contactqr.ContactQrActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.qrcode.GroupLinkQrActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.qrcode.contactqr.QrSheetDeepLinkActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.registration.phonenumberentry.ChangeNumberNotifyContacts": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.registration.ChangeNumberOverview": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.registration.NotifyContactsSelector": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.registration.phonenumberentry.ChangeNumber": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.registration.VerifyTwoFactorAuth": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.registration.EULA": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.registration.flashcall.PrimaryFlashCallEducationScreen": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.registration.directmigration.RequestPermissionFromSisterAppActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.registration.phonenumberentry.RegisterPhone": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.registration.verifyphone.VerifyPhoneNumber": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.registration.email.EmailEducationScreen": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.registration.email.RegisterEmail": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.registration.email.UnverifiedEmailSetupRegUpsellActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.registration.email.ConfirmEmailSetupRegUpsellActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.registration.SendSmsToWa": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.registration.email.VerifyEmail": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.registration.accountdefence.DeviceConfirmationRegistrationActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.registration.accountdefence.ui.OldDeviceSecureAccountActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.registration.accountdefence.ui.OldDeviceSecureAccount2FaActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.registration.directmigration.RestoreFromConsumerDatabaseActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.registration.accountdefence.ui.OldDeviceMoveAccountNoticeActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.registration.RegisterName": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.registration.parole.CustomRegistrationBlockActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.report.ReportActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.settings.SettingsSetupUserProxyActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.settings.About": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.settings.Licenses": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.settings.SettingsAccount": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.settings.securitycheckup.SettingsSecurityCheckupActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.settings.SettingsPasskeys": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.settings.SettingsSecurity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.settings.SettingsChatHistory": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.settings.SettingsHelpV2": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.settings.SettingsNotifications": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.settings.SettingsJidNotificationActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.settings.SettingsUserProxyActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.settings.Settings": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.settings.SettingsDataUsageActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.settings.SettingsNetworkUsage": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.settings.chat.wallpaper.downloadable.picker.DownloadableWallpaperPickerActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.settings.chat.wallpaper.downloadable.picker.DownloadableWallpaperPreviewActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.settings.chat.theme.preview.ThemesDownloadablePreviewActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.settings.chat.wallpaper.DefaultWallpaperPreview": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.settings.chat.wallpaper.WallpaperCurrentPreviewActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.settings.chat.wallpaper.SolidColorWallpaper": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.settings.chat.wallpaper.SolidColorWallpaperPreview": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.settings.chat.theme.preview.ThemesSolidColorWallpaperPreview": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.settings.chat.theme.preview.ThemesThemePreviewActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.settings.chat.theme.preview.ThemesGalleryWallpaperPreviewActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.settings.chat.wallpaper.WallpaperCategoriesActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.settings.chat.wallpaper.GalleryWallpaperPreview": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.settings.SettingsPrivacy": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.settings.SettingsChat": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.settings.SettingsCallingPrivacyActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.settings.SettingsPrivacyAdvancedActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.settings.SettingsContactsActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.settings.chat.theme.ChatThemeActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.softenforcementsmb.BusinessPolicyView": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.updates.ui.statusmuting.MutedStatusesActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.textstatuscomposer.TextStatusComposerActivityV2": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.statuscomposer.ConsolidatedStatusComposerActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.status.playback.MyStatusesActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.status.audienceselector.StatusPrivacyActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.status.playback.StatusReplyActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.status.audienceselector.StatusTemporalRecipientsActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.status.audienceselector.StatusRecipientsActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.status.playback.MessageReplyActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.status.playback.StatusPlaybackActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.status.crossposting.privacy.ShareToFacebookActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.stickers.store.preview.StickerStorePackPreviewActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.stickers.store.StickerStoreActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.stickers.thirdpartystickers.AddThirdPartyStickerPackActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.insufficientstoragespace.InsufficientStorageSpaceActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.storage.StorageUsageActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.storage.StorageUsageManageSpaceActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.storage.StorageUsageGalleryActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.systemstatus.SystemStatusActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.textstatus.AddTextStatusActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.thunderstorm.ThunderstormConnectionsInfoActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.thunderstorm.ThunderstormQrCodeActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.thunderstorm.ThunderstormPermissionsActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.twofactor.SettingsTwoFactorAuthActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.twofactor.TwoFactorAuthActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.twofactor.AddEmailActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.userban.ui.BanAppealActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.messaging.ViewOnceViewerActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.bridge.wfs.ui.LinkedUsersActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.xfamily.accountlinking.ui.AccountLinkingNativeAuthActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.accountswitching.routing.AccountSwitchingRoutingActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.authgraphql.ui.CommonBloksActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.bizintegrity.callpermission.BizCallbackActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.ptt.language.ui.TranscriptionChooseLanguageActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.events.EventCreationActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.metaai.voice.permission.RequestMetaAiVoicePermissionActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.ml.v2.storageusage.MLModelStorageUsageActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.RequestPermissionActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.permissions.RequestNotificationPermissionActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.privacy.disclosure.ui.PrivacyDisclosureContainerActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.profile.UsernameManagementFlowActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.spamwarning.SpamWarningActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.accountlinking.webauthutil.FxWebAuthLauncherActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.accountlinking.FxWaInAppBrowserActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.waffle.wfac.ui.WfacBanActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.waquickpromotionclient.ui.PushPsaNotificationActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.webview.ui.WaInAppBrowsingActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.xfamily.groups.ui.LinkExistingGroupActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.whatsapp.xfamily.groups.ui.GroupMembersSelectorActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            },
+            "com.facebook.smartcapture.view.IdCaptureActivity": {
+                "actions": [],
+                "categories": [],
+                "data": []
+            }
+        }
+    }
+]
